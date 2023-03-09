@@ -7,7 +7,7 @@ At the first launch user needs to create a password that will be saved in Keycha
 
 Additional settings allow to order files and folders by name. Settings are stored in UserDefaults.
 
-### Skills
+### Skills:
 - FileManager
 - UserDefaults
 - Keychain
